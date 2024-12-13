@@ -3,13 +3,13 @@
 ### *Project Objective*
 To develop a credit card dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to effectively monitor and analyze credit card operations. The dashboard also helps identify opportunities and risks, such as high-value customers and underperforming segments.
 
-### *Credit Card Transactions Report*
-<img width="602" alt="credit card transactions" src="https://github.com/user-attachments/assets/22b3a243-0af0-4ec8-b317-d643655c9ee3" />
+### *Credit Card Transactions Dashboard*
+<img width="604" alt="credit card transaction dashboard" src="https://github.com/user-attachments/assets/9352ba22-59ca-40b8-8121-0102315756d2" />
 
 
+### *Credit Card Customer Dashboard*
+<img width="605" alt="credit card customer dashboard" src="https://github.com/user-attachments/assets/81d662b3-85a9-49bb-b24c-de2ae9a612d6" />
 
-### *Credit Card Customer Report*
-<img width="602" alt="credit card customer" src="https://github.com/user-attachments/assets/46a9a1ff-e495-49a2-bb8e-8e47b8ca0f80" />
 
 
 ### *Data Model*
